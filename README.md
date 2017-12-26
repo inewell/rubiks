@@ -57,3 +57,6 @@ In addition to rendering a fully-functional cube, I also wrote an algorithm that
 * `CubeSolver.java`: Contains the algorithm that solves an arbitrarily scrambled 3 by 3 cube. When it runs, first it scrambles the cube randomly. Then, it pauses. Then, it solves the cube, move-by-move, which you can watch (and also rotate it while it's going). Subclass of `CubeGraphics.java`.
 * `Light.java`: Handles lighting. Used by `Space3D.java`.
 * `Matrix.java`: Handles matrices and matrix multiplication. Used for rotation in `Space3D.java`.
+
+## Authors:
+* Isaac Newell
